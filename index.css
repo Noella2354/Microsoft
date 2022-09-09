@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    color: aliceblue;
+}
+header
+{
+    display: flex;
+    color: black;
+    
+}
+.links
+{
+    margin-top: 1rem;
+    margin-left: 15px;
+}
+.a
+{
+    text-align: center;
+    box-sizing: border-box;
+    background: cornflowerblue;
+    text-align: center;
+    padding: 20px 20px 0;
+    top: 50%;
+	left: 50%;
+
+
+}
